@@ -1,5 +1,5 @@
 
-
+// Retirei a chave daqui, pois na epoca, não usava .env
 
 export async function weatherLocation(apiKey, cityName) {
   try {
