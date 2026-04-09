@@ -1,5 +1,4 @@
-// export const apiKey = 'e92a28364a2116f8ed1f2a9d91594a34';
-export const apiKey = '557bc078c261cf44c5c561a94918672a';
+
 
 
 export async function weatherLocation(apiKey, cityName) {
