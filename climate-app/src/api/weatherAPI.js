@@ -1,5 +1,5 @@
 
-// Retirei a chave daqui, pois na epoca, não usava .env
+export const apiKey = process.env.API_KEY;
 
 export async function weatherLocation(apiKey, cityName) {
   try {
